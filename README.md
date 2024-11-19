@@ -26,9 +26,9 @@ Official implementation of the paper based on Pytorch:
 
 To cite the paper, please use the following BibTeX:
 ```bibtex
-@article{safaee2023clic,
+@article{soltani2024weakly,
   title={Weakly-Supervised Anomaly Detection in Surveillance Videos Based on Two-Stream I3D Convolution Network},
-  author={Sareh Soltani Nejad, Anwar Haque},
-  journal={arXiv},
+  author={Sareh Soltani Nejad and Anwar Haque},
+  journal={arXiv preprint arXiv:2411.08755},
   year={2024}
 }

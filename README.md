@@ -1,4 +1,4 @@
-# Anomaly Detection in Surveillance Videos : Pytorch Implementation (Master Thesis)
+## Anomaly Detection in Surveillance Videos: Pytorch Implementation (Master Thesis)
 
 **Sareh Soltani Nejad, Anwar Haque**
 
